@@ -1,3 +1,3 @@
 # 1063-DataStructures
-# Professor Jeremy Glebe
-# Midwestern State University
+## Professor Jeremy Glebe
+### Midwestern State University
